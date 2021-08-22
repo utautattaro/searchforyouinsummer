@@ -1,6 +1,7 @@
+![Imgur](https://i.imgur.com/IvzKjYU.png)
 # キミを探す、夏
 ## -初音ミク「マジカルミライ 2021」プログラミング・コンテスト応募作品-
-![Imgur](https://i.imgur.com/IvzKjYU.png)
+
 
 # Get started
 
@@ -26,3 +27,6 @@ Application : うたろ
 Artwork(2D) : Misato
 
 Artwork(3D) : [Japanese School Classroom](https://assetstore.unity.com/packages/3d/environments/japanese-school-classroom-18392?locale=ja-JP) by SbbUtutuya
+
+# Made by PlayCanvas
+![Imgur](https://i.imgur.com/k7Q6Dcy.png)
