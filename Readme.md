@@ -13,7 +13,7 @@ python -m http.server
 
 open http://localhost:8000/ in your browser.
 
-Video on YouTube : https://youtu.be/BIoFoOIooQU
+Video on YouTube : https://youtu.be/Kz3NvGmWres
 
 # Notes
 PC・タブレット・スマートフォン全てで動作しますがパフォーマンスの都合上モバイル端末では一部機能を制限しています。すべてを楽しむにはPCからのプレイをおすすめします。
