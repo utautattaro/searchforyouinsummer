@@ -30,5 +30,5 @@ Artwork(2D) : Misato
 
 Artwork(3D) : [Japanese School Classroom](https://assetstore.unity.com/packages/3d/environments/japanese-school-classroom-18392?locale=ja-JP) by SbbUtutuya
 
-# Made by PlayCanvas
+# Made with PlayCanvas
 ![Imgur](https://i.imgur.com/k7Q6Dcy.png)
