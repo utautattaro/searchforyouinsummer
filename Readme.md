@@ -24,7 +24,7 @@ PC・タブレット・スマートフォン全てで動作しますがパフォ
 
 
 # Credit
-Application : うたろ
+Application : Ryotaro
 
 Artwork(2D) : Misato
 
